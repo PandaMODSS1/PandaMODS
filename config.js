@@ -3,9 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5493885839638'], 
-  ['5492622689586'] 
+  ['528186935770', 'Mauricio - PandaMODS 🐼', true],
+  ['528134690022']
 ] //Numeros de owner 
 
 global.mods = ['573125484672'] 
@@ -27,12 +26,12 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'DyLux┃ᴮᴼᵀ' 
 global.author = '@fg98._' 
-global.igfg = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
-global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.imgur.com/Owmb93c.png' 
+global.igfg = '▢ Sígueme en Instagram\nhttps://www.instagram.com/pandamods\n' 
+global.dygp = 'https://chat.whatsapp.com/Bvsrmv1L7Gy8rS0yMMi5hG'
+global.fgsc = '' 
+global.fgyt = ''
+global.fgpyp = ''
+global.fglog = '' 
 
 global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
